@@ -6,7 +6,7 @@
 
 </p>
 <div align='center'>
-<a href="https://www.linkedin.com/in/a-dheeb/"><img height="30" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/a-dheeb/"><img height="30" src="images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_.a_dh_06?igsh=YXZqaGV4cWgxcmhw&utm_source=qr"><img height="30" src="https://simpleicons.org/icons/instagram.svg"></a>&nbsp;&nbsp;
 </div>
 
