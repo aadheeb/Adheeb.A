@@ -1,7 +1,7 @@
 <h1 align='center'> ADHEEB A</h1>
 <h2 align='center' > DevOps | Cloud | Security </h2>
 
-<p align='center' >DevOps Engineer &amp; at <a target="_blank" href="https://beaglesecurity.com">Beagle Security</a> |&nbsp;
+<p align='center' >DevOps Engineer &amp; at <a target="_blank" href="https://beaglesecurity.com">Beagle Security</a>;
 
 
 </p>
